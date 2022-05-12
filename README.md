@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @besscane
-- 👀 I’m interested in software developmeng
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
